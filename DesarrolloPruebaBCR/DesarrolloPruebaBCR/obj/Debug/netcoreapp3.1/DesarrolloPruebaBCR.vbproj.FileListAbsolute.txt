@@ -1,0 +1,11 @@
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\bin\Debug\netcoreapp3.1\DesarrolloPruebaBCR.exe
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\bin\Debug\netcoreapp3.1\DesarrolloPruebaBCR.deps.json
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\bin\Debug\netcoreapp3.1\DesarrolloPruebaBCR.runtimeconfig.json
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\bin\Debug\netcoreapp3.1\DesarrolloPruebaBCR.runtimeconfig.dev.json
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\bin\Debug\netcoreapp3.1\DesarrolloPruebaBCR.dll
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\bin\Debug\netcoreapp3.1\DesarrolloPruebaBCR.pdb
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\obj\Debug\netcoreapp3.1\DesarrolloPruebaBCR.vbprojAssemblyReference.cache
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\obj\Debug\netcoreapp3.1\DesarrolloPruebaBCR.AssemblyInfoInputs.cache
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\obj\Debug\netcoreapp3.1\DesarrolloPruebaBCR.AssemblyInfo.vb
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\obj\Debug\netcoreapp3.1\DesarrolloPruebaBCR.dll
+C:\Users\Fran\source\repos\DesarrolloPruebaBCR\DesarrolloPruebaBCR\obj\Debug\netcoreapp3.1\DesarrolloPruebaBCR.pdb
